@@ -1,0 +1,501 @@
+mission_id,mission_name,location,agent_id,access_id,team_id,mission_status
+96,Rainbow Six Formation,Moscow,598,4,9,Failed
+97,Project Christmas,Dubai,174,3,9,In Progress
+63,Red October,Madrid,386,3,9,In Progress
+53,Pelant Pursuit,Cape Town,414,4,9,Pending
+65,Daughter Rescue,Sydney,140,5,9,In Progress
+80,Mission Blackout,Toronto,637,5,9,In Progress
+43,Brideshead Revisited,Cape Town,984,3,9,In Progress
+35,Rule 51 Enforcement,Moscow,325,3,9,In Progress
+86,The Golden Circle,New York,452,5,9,Failed
+71,Port-to-Port Killer Hunt,Rio de Janeiro,883,4,9,In Progress
+36,Pelant Pursuit,Paris,28,6,9,In Progress
+85,Operation Mojito,New York,927,5,9,Failed
+32,Brideshead Revisited,Istanbul,241,2,9,Completed
+78,Project Cobra,Chicago,60,1,9,Completed
+54,KAOS Takedown,New York,782,3,9,In Progress
+44,Project Shadow,New York,161,2,9,In Progress
+51,Deep Cover,Prague,811,5,9,Failed
+19,Spy Undercover,Beijing,323,6,9,Completed
+47,Music Box Mystery,Chicago,40,2,9,Pending
+24,Burn Notice Reversal,Vienna,321,4,9,Completed
+82,Intersect Protection,Dubai,801,3,9,In Progress
+76,The Istanbul Affair,Buenos Aires,328,1,9,In Progress
+17,Outcome Elimination,Cape Town,102,2,9,Failed
+341,Mr. Monk Goes to the Asylum,Chicago,294,2,14,In Progress
+224,Project Quantum,Prague,793,2,27,Failed
+192,Shibumi Extraction,Istanbul,563,2,41,Completed
+347,Management Dismantling,New York,53,2,31,Completed
+75,Operation Skyfall,Toronto,768,3,36,Completed
+290,Section One Initiation,Beijing,642,2,42,Pending
+337,Ipcress File Recovery,Chicago,467,2,10,In Progress
+60,Operation Ironclad,Toronto,646,5,21,Failed
+340,Operation Valkyrie,Madrid,562,2,40,In Progress
+81,Nikki Heat Protection,New York,329,3,11,Completed
+39,Deep Cover,Vienna,29,5,33,Completed
+108,Operation Mojito,Dubai,230,2,15,Pending
+367,The Acropolis Assignment,Dubai,960,2,5,In Progress
+261,Operation Skyfall,Rome,710,2,23,In Progress
+339,Operation Tinker Tailor,Tokyo,117,2,16,In Progress
+314,Management Dismantling,Istanbul,949,2,18,Failed
+353,Operation Ghost Hunt,Toronto,937,2,24,In Progress
+52,Project Cobra,Berlin,182,1,15,In Progress
+202,Mission Firestorm,Chicago,839,2,30,In Progress
+135,Operation Shadowbox,New York,653,2,9,In Progress
+59,Project Phoenix,New York,721,1,9,Failed
+248,Pantheon Take Down,Vienna,685,2,40,In Progress
+33,Rule 51 Enforcement,Buenos Aires,788,1,13,Failed
+305,Villanelle Pursuit,Istanbul,990,2,8,In Progress
+319,Project Quantum,Berlin,878,2,34,Failed
+303,Operation Red Dawn,Buenos Aires,221,2,43,In Progress
+233,Nikki Heat Protection,Buenos Aires,119,2,29,In Progress
+70,3XK Killer Chase,Madrid,162,6,42,Failed
+121,Groovy Infiltration,Madrid,292,2,34,Failed
+369,Relevant Number Ops,Madrid,547,2,40,In Progress
+252,Parallel Universe Bridge,Dubai,529,2,26,Pending
+244,Music Box Mystery,Chicago,463,2,32,In Progress
+68,Section One Initiation,London,515,4,23,In Progress
+158,Quantico Mole Hunt,Sydney,815,2,23,Completed
+307,Deep Cover,Paris,944,2,4,Pending
+315,Operation Shadowbox,Rome,440,2,21,In Progress
+333,Teen Agent,Istanbul,731,2,37,Failed
+194,Pantheon Take Down,Buenos Aires,788,2,13,Completed
+237,The Istanbul Affair,Beijing,702,2,21,Failed
+370,Pantheon Take Down,Prague,877,2,30,Pending
+242,Teen Agent,Vienna,273,2,25,Completed
+143,Black Widow Ops,Madrid,590,2,21,In Progress
+312,Operation Ghost Hunt,Dubai,940,2,13,Failed
+179,Project Sentinel,Cape Town,785,2,15,Pending
+69,Relevant Number Ops,Chicago,495,5,11,Pending
+62,Daughter Rescue,Paris,403,1,39,Failed
+216,Parallel Universe Bridge,Berlin,716,2,44,Completed
+278,Red October,Tokyo,830,2,15,Failed
+281,Rainbow Six Formation,Cape Town,166,2,30,In Progress
+232,Daughter Rescue,Prague,396,2,1,Pending
+355,Deep Cover,Cape Town,218,2,13,Failed
+83,Operation Desert Scorpion,Istanbul,979,6,17,Failed
+142,Operation Silent Night,Moscow,304,2,8,Completed
+159,Music Box Mystery,Cape Town,696,2,15,Failed
+98,Mr. Monk Goes to the Asylum,Rome,672,2,4,Failed
+101,HR Takedown,London,233,2,41,Completed
+335,Project Nemesis,Vienna,821,2,17,In Progress
+311,Phoenix Foundation Crisis,Sydney,247,2,21,Failed
+112,Forensic Lab Lockdown,Chicago,404,2,23,Completed
+102,Project Christmas,Dubai,941,2,16,Pending
+215,Operation Thunderball,Moscow,939,2,23,Completed
+360,Deep Cover,London,872,2,32,Completed
+200,Operation Thunderbolt,Los Angeles,624,2,32,Failed
+73,Hellfire Club Infiltration,Rome,318,4,29,In Progress
+113,Brideshead Revisited,Berlin,804,2,38,Pending
+174,Rainbow Six Formation,London,367,2,10,Failed
+310,Pelant Pursuit,Toronto,310,2,23,In Progress
+332,Project Nemesis,Moscow,67,2,30,Failed
+41,Management Dismantling,Tokyo,428,2,25,Pending
+199,Ipcress File Recovery,Vienna,747,2,23,Completed
+144,Operation Silent Night,Toronto,85,2,14,Failed
+317,Outcome Elimination,Chicago,993,2,36,In Progress
+266,Operation Skyfall,New York,43,2,31,Pending
+117,Oil Pipeline Sabotage,Sydney,96,2,15,Failed
+77,Operation Ironclad,London,148,4,42,Completed
+316,MTAC Security Breach,Sydney,538,2,26,Completed
+136,Project Phoenix,Madrid,916,2,13,Failed
+34,Project Shadow,Cape Town,97,2,4,Failed
+234,Operation Shadowbox,Buenos Aires,876,2,32,In Progress
+298,Hellfire Club Infiltration,Vienna,118,2,34,In Progress
+375,U.N.C.L.E. Infiltration,Moscow,550,2,33,Completed
+105,Management Dismantling,London,665,2,25,In Progress
+207,Mission Nightfall,Prague,199,2,10,Completed
+48,Villanelle Pursuit,Vienna,852,6,22,In Progress
+84,Quantico Mole Hunt,Madrid,837,5,30,Completed
+377,Pantheon Take Down,Dubai,511,2,26,Failed
+275,Casino Royale Sting,London,129,2,27,In Progress
+268,Chimera Virus Recovery,Madrid,794,2,26,In Progress
+119,Music Box Mystery,Vienna,328,2,36,In Progress
+141,Alternate Timeline Reset,Buenos Aires,624,2,38,In Progress
+285,Arms Dealer Infiltration,Rome,949,2,18,Failed
+16,KAOS Takedown,Buenos Aires,899,6,26,In Progress
+147,Project Sentinel,London,490,2,34,Completed
+324,Hellfire Club Infiltration,Madrid,772,2,41,Failed
+254,Rule 51 Enforcement,Tokyo,6,2,36,Completed
+198,Ghost Protocol,Vienna,937,2,36,Completed
+221,Mission Firestorm,Rio de Janeiro,307,2,12,Failed
+167,Alien Conspiracy Investigation,Rome,312,2,2,In Progress
+165,Nikki Heat Protection,Paris,82,2,9,Pending
+289,Quantico Mole Hunt,Vienna,605,2,13,Completed
+57,The Acropolis Assignment,Moscow,309,1,20,In Progress
+92,Covert Affairs in Russia,Sydney,429,2,1,Failed
+45,Treadstone Takedown,Madrid,133,5,40,Pending
+256,MTAC Security Breach,Paris,113,2,44,Failed
+196,Spy Undercover,Rome,178,2,21,Failed
+272,Parallel Universe Bridge,Istanbul,972,2,20,Pending
+27,Management Dismantling,Vienna,373,4,24,In Progress
+354,Parallel Universe Bridge,Madrid,920,2,40,Completed
+326,Mission Blackout,Prague,582,2,5,Completed
+270,Spy Undercover,Chicago,455,2,14,Completed
+376,SSR Infiltration,Los Angeles,769,2,9,In Progress
+138,Mission Blackout,Beijing,901,2,38,In Progress
+277,Pelant Pursuit,Tokyo,649,2,42,Failed
+72,Alien Conspiracy Investigation,Tokyo,72,6,5,Failed
+168,Cybernauts Neutralization,Rome,903,2,14,Failed
+235,Rogue Nation,Chicago,514,2,18,Failed
+260,Cold City,London,923,2,32,In Progress
+282,SSR Infiltration,Berlin,798,2,27,In Progress
+56,Burn Notice Reversal,Berlin,643,3,17,Completed
+257,Project Sentinel,New York,369,2,25,Pending
+178,Chimera Virus Recovery,Beijing,760,2,11,Completed
+288,Casino Royale Sting,Chicago,243,2,8,Completed
+40,Arms Dealer Infiltration,Beijing,689,2,19,Pending
+378,Treadstone Takedown,Chicago,723,2,17,Pending
+359,Black Widow Ops,Los Angeles,516,2,26,Failed
+89,Alternate Timeline Reset,Buenos Aires,491,1,1,In Progress
+28,Arms Dealer Infiltration,Rome,312,1,27,Failed
+226,Shadow Moses Incident,Toronto,161,2,20,Pending
+313,Brideshead Revisited,Istanbul,239,2,16,Failed
+20,Quantico Mole Hunt,Berlin,795,4,42,In Progress
+344,Intersect Protection,New York,883,2,41,Pending
+131,Ghost Protocol,Buenos Aires,59,2,16,Failed
+258,Oil Pipeline Sabotage,New York,5,2,19,Completed
+180,Cybernauts Neutralization,Paris,659,2,15,Failed
+64,Management Dismantling,Beijing,639,4,13,Pending
+240,The Acropolis Assignment,Berlin,475,2,10,Pending
+203,The Istanbul Affair,London,504,2,9,Failed
+231,The Acropolis Assignment,Los Angeles,948,2,2,Pending
+372,Operation Silent Night,Moscow,538,2,33,Failed
+55,Rule 51 Enforcement,New York,510,1,41,In Progress
+208,KAOS Takedown,New York,227,2,41,In Progress
+61,Villanelle Pursuit,Moscow,309,1,11,Failed
+299,The Acropolis Assignment,Madrid,53,2,38,Completed
+366,Mr. Monk Goes to the Asylum,Chicago,862,2,15,Pending
+91,Project Christmas,Moscow,287,1,13,In Progress
+193,Arms Dealer Infiltration,Sydney,884,2,30,Failed
+246,Forensic Lab Lockdown,Istanbul,41,2,2,Pending
+328,Samaritan Evasion,Rome,10,2,25,In Progress
+94,Operation Valkyrie,Berlin,724,6,5,Failed
+90,Outcome Elimination,Toronto,371,3,17,Pending
+173,Gormogon Investigation,London,613,2,10,In Progress
+357,Mission Blackout,Chicago,206,2,21,Pending
+255,Deep Cover,London,536,2,12,In Progress
+42,Operation Thunderbolt,Cape Town,577,1,34,Completed
+139,The Acropolis Assignment,Moscow,708,2,2,Pending
+241,Parallel Universe Bridge,Berlin,41,2,12,Failed
+49,SSR Infiltration,Beijing,207,3,42,In Progress
+219,Teen Agent,New York,142,2,28,Failed
+66,The Higgins Case,Sydney,537,1,41,Pending
+236,Wine Cellar Rendezvous,New York,532,2,20,Failed
+302,Deep Cover,Prague,560,2,28,Failed
+100,SSR Infiltration,Istanbul,413,2,11,Pending
+205,Hellfire Club Infiltration,Istanbul,674,2,40,Failed
+175,Operation Ironclad,Tokyo,791,2,15,Failed
+30,Operation Thunderbolt,Buenos Aires,851,5,11,Pending
+148,Operation Ironclad,New York,739,2,17,In Progress
+368,Ipcress File Recovery,Dubai,140,2,40,Failed
+25,Operation Red Dawn,Tokyo,788,6,10,Failed
+352,Management Dismantling,Dubai,865,2,11,Pending
+259,Mission Nightfall,Vienna,36,2,29,In Progress
+153,Chimera Virus Recovery,Madrid,734,2,42,Completed
+346,Covert Affairs in Russia,Paris,529,2,12,In Progress
+156,Operation Tinker Tailor,Cape Town,924,2,21,Completed
+206,Operation Golden Eye,Toronto,15,2,26,Failed
+304,Shibumi Extraction,Dubai,220,2,15,In Progress
+263,Operation Tinker Tailor,Madrid,531,2,27,Pending
+294,Cold City,Buenos Aires,527,2,4,Pending
+247,Intersect Protection,Cape Town,7,2,18,Failed
+350,Quantico Mole Hunt,Vienna,893,2,7,Pending
+195,Project Shadow,Buenos Aires,767,2,40,In Progress
+329,KAOS Takedown,New York,92,2,34,In Progress
+172,The Yin Yang Trilogy,Los Angeles,321,2,9,Failed
+348,Ipcress File Recovery,Cape Town,332,2,21,Failed
+21,The Acropolis Assignment,New York,247,1,27,Failed
+176,Shibumi Extraction,Vienna,740,2,12,In Progress
+284,Anarchy 99 Infiltration,Rio de Janeiro,288,2,31,Pending
+362,Operation Skyfall,New York,439,2,8,In Progress
+364,MTAC Security Breach,Sydney,736,2,24,Completed
+107,Pelant Pursuit,Dubai,331,2,1,Completed
+271,Daughter Rescue,Toronto,384,2,13,Failed
+104,Kingsman Recruitment,Sydney,41,2,23,In Progress
+152,Covert Affairs in Russia,Chicago,99,2,4,Pending
+213,Forensic Lab Lockdown,London,678,2,30,In Progress
+373,Cold City,Madrid,517,2,42,Failed
+295,Mission Eclipse,Toronto,97,2,37,Pending
+177,Music Box Mystery,London,48,2,1,Completed
+318,Wine Cellar Rendezvous,Beijing,930,2,12,In Progress
+95,Shadow Moses Incident,Rome,648,1,18,Pending
+210,Mission Deep Freeze,New York,359,2,26,Pending
+361,Mr. Monk Goes to the Asylum,Prague,513,2,20,Failed
+229,Project Omega,Chicago,11,2,2,Failed
+201,Port-to-Port Killer Hunt,Dubai,818,2,40,Pending
+269,Operation Salt and Pepper,Rio de Janeiro,183,2,8,In Progress
+155,Operation Red Dawn,New York,285,2,21,Failed
+345,Project Quantum,Chicago,801,2,14,In Progress
+29,Operation Ironclad,Chicago,197,2,20,In Progress
+239,Gormogon Investigation,Toronto,96,2,2,Completed
+171,U.N.C.L.E. Infiltration,Chicago,41,2,28,Pending
+125,Project Nemesis,Los Angeles,41,2,5,Pending
+109,Operation Thunderbolt,Cape Town,942,2,5,Completed
+23,Alternate Timeline Reset,Los Angeles,478,2,15,Failed
+250,Operation Skyfall,New York,440,2,12,Failed
+111,Anarchy 99 Infiltration,Dubai,15,2,34,In Progress
+145,Section One Initiation,Rome,991,2,16,Failed
+74,3XK Killer Chase,Prague,744,4,12,Completed
+50,Villanelle Pursuit,Beijing,621,3,33,Pending
+300,Shibumi Extraction,Tokyo,201,2,1,In Progress
+187,Operation Thunderball,Paris,576,2,4,Completed
+122,Covert Affairs in Russia,Sydney,999,2,42,Failed
+1,HR Takedown,Prague,974,2,9,In Progress
+87,Brideshead Revisited,Cape Town,187,4,9,Failed
+58,Parallel Universe Bridge,Prague,92,4,9,In Progress
+79,Casino Royale Sting,Sydney,992,6,9,Failed
+46,Project Nemesis,Beijing,967,2,9,Failed
+93,Quantico Mole Hunt,Prague,345,6,9,Completed
+37,Port-to-Port Killer Hunt,Beijing,412,6,27,In Progress
+22,Operation Mojito,Berlin,855,6,22,Completed
+18,Rainbow Six Formation,Rio de Janeiro,246,3,23,Pending
+67,Pelant Pursuit,London,352,3,33,Pending
+26,Parallel Universe Bridge,Beijing,904,1,23,Failed
+31,Project Nemesis,Buenos Aires,934,5,19,Failed
+88,Spy Undercover,Rome,482,2,7,Pending
+38,Operation Tinker Tailor,Istanbul,587,1,27,Failed
+99,Project Nemesis,Tokyo,440,2,9,Pending
+103,Mission Eclipse,Los Angeles,927,2,9,Completed
+106,Project Nemesis,Vienna,427,2,9,In Progress
+110,Gormogon Investigation,Paris,685,2,9,In Progress
+114,Shibumi Extraction,Rome,590,2,9,In Progress
+115,Operation Desert Scorpion,Rio de Janeiro,11,2,9,Failed
+116,The Acropolis Assignment,Moscow,305,2,9,Failed
+118,Nikki Heat Protection,Toronto,737,2,9,In Progress
+120,Operation Golden Eye,Berlin,152,2,9,Failed
+123,The Golden Circle,Sydney,77,2,9,Failed
+124,KAOS Takedown,London,39,2,9,Failed
+126,Shibumi Extraction,New York,949,2,9,In Progress
+128,Villanelle Pursuit,Buenos Aires,707,2,9,Failed
+129,Operation Ironclad,Dubai,764,2,9,In Progress
+130,Analog Interface Mission,New York,77,2,9,In Progress
+132,Operation Golden Eye,Beijing,220,2,9,Pending
+133,Oil Pipeline Sabotage,Buenos Aires,345,2,9,Failed
+134,Project Nemesis,Rome,924,2,9,Completed
+137,Arms Dealer Infiltration,Vienna,562,2,9,Pending
+140,Rogue Nation,Moscow,759,2,9,In Progress
+146,MTAC Security Breach,Berlin,208,2,9,Pending
+149,Villanelle Pursuit,Beijing,972,2,9,Completed
+150,Port-to-Port Killer Hunt,Paris,83,2,9,Failed
+151,HR Takedown,New York,553,2,9,In Progress
+154,Mission Deep Freeze,Toronto,940,2,9,Pending
+157,Shibumi Extraction,Sydney,181,2,9,In Progress
+160,Intersect Protection,Sydney,787,2,9,Pending
+161,The Acropolis Assignment,Tokyo,501,2,9,Completed
+162,Ipcress File Recovery,Berlin,498,2,9,In Progress
+163,Mission Deep Freeze,Madrid,141,2,9,Completed
+164,Chimera Virus Recovery,London,311,2,9,In Progress
+169,Spy Undercover,Chicago,521,2,9,In Progress
+170,Nikki Heat Protection,Chicago,360,2,9,In Progress
+181,Machine Protection,Cape Town,600,2,9,Completed
+182,Wine Cellar Rendezvous,London,870,2,9,Completed
+183,Rogue Nation,Tokyo,376,2,9,In Progress
+184,Operation Skyfall,Vienna,788,2,9,Completed
+186,Shadow Moses Incident,Tokyo,530,2,9,In Progress
+189,Operation Thunderbolt,London,540,2,9,Pending
+166,Villanelle Pursuit,Chicago,161,2,18,Failed
+188,Mission Blackout,Berlin,68,2,15,Failed
+127,Mr. Monk Goes to the Asylum,Beijing,345,2,18,Failed
+185,Operation Ironclad,Tokyo,584,2,8,Completed
+190,The Higgins Case,Buenos Aires,580,2,9,Completed
+191,Alien Conspiracy Investigation,Rio de Janeiro,801,2,9,Pending
+197,Groovy Infiltration,New York,342,2,9,In Progress
+204,Operation Golden Eye,Rio de Janeiro,428,2,9,Failed
+209,Teen Agent,Beijing,967,2,9,In Progress
+211,Mission Nightfall,Dubai,12,2,9,Completed
+212,Operation Thunderbolt,Prague,320,2,9,Pending
+214,Operation Ghost Hunt,Chicago,615,2,9,Pending
+217,The Istanbul Affair,Istanbul,601,2,9,Pending
+218,Daughter Rescue,Toronto,689,2,9,Failed
+220,Operation Desert Scorpion,Vienna,906,2,9,Completed
+222,Parallel Universe Bridge,Madrid,628,2,9,Failed
+223,Forensic Lab Lockdown,Rio de Janeiro,773,2,9,Completed
+225,Kingsman Recruitment,Rome,686,2,9,In Progress
+227,Alternate Timeline Reset,Dubai,844,2,9,In Progress
+228,The Golden Circle,Tokyo,518,2,9,Completed
+230,Shadow Moses Incident,Cape Town,637,2,9,Failed
+238,Operation Thunderball,Istanbul,392,2,9,Completed
+243,The Istanbul Affair,Prague,551,2,9,In Progress
+245,Machine Protection,Berlin,709,2,9,Failed
+249,Gormogon Investigation,Cape Town,783,2,9,Pending
+251,The Golden Circle,London,68,2,9,In Progress
+253,Shibumi Extraction,Paris,571,2,9,In Progress
+262,Operation Thunderball,Beijing,24,2,9,In Progress
+264,Operation Silent Night,Cape Town,112,2,9,Failed
+265,The Higgins Case,Paris,724,2,9,In Progress
+267,3XK Killer Chase,Dubai,917,2,9,Failed
+273,Mission White Noise,Rio de Janeiro,263,2,9,In Progress
+274,Project Quantum,Sydney,624,2,9,Pending
+276,Music Box Mystery,Dubai,27,2,9,Completed
+279,Cybernauts Neutralization,Chicago,636,2,9,Failed
+280,The Yin Yang Trilogy,Paris,420,2,9,In Progress
+283,3XK Killer Chase,Rome,459,2,9,In Progress
+286,Daughter Rescue,Tokyo,703,2,9,In Progress
+287,Arms Dealer Infiltration,London,586,2,9,Failed
+291,Spy Undercover,Tokyo,492,2,9,Failed
+292,Mission Nightfall,Prague,335,2,9,In Progress
+293,Arms Dealer Infiltration,London,852,2,9,In Progress
+296,Teen Agent,Toronto,823,2,9,In Progress
+297,Operation Skyfall,Rio de Janeiro,94,2,9,Failed
+301,Samaritan Evasion,Madrid,380,2,9,Pending
+306,Shadow Moses Incident,Rio de Janeiro,355,2,9,Pending
+308,Operation Thunderball,London,108,2,9,Completed
+309,Operation Thunderbolt,Sydney,113,2,9,In Progress
+320,Operation Shadowbox,Buenos Aires,575,2,9,Failed
+321,Rainbow Six Formation,Paris,878,2,9,Pending
+322,Parallel Universe Bridge,Berlin,325,2,9,Failed
+323,Port-to-Port Killer Hunt,Toronto,611,2,9,In Progress
+325,Project Sentinel,Chicago,307,2,9,Completed
+327,Operation Desert Scorpion,Rome,244,2,9,Failed
+330,Deep Cover,Moscow,808,2,9,Failed
+331,Alien Conspiracy Investigation,Cape Town,897,2,9,Failed
+334,Operation Thunderball,Tokyo,760,2,9,Failed
+336,Operation Golden Eye,Vienna,992,2,9,Completed
+338,Section One Initiation,Istanbul,394,2,9,Completed
+342,MTAC Security Breach,New York,256,2,9,In Progress
+343,Burn Notice Reversal,Vienna,853,2,9,Pending
+349,Shadow Moses Incident,Berlin,681,2,9,In Progress
+351,Operation Shadowbox,London,584,2,9,Failed
+356,Forensic Lab Lockdown,Prague,194,2,9,Pending
+358,Project Cobra,Sydney,77,2,9,Pending
+363,Phoenix Foundation Crisis,Rio de Janeiro,865,2,9,Pending
+365,Anarchy 99 Infiltration,Toronto,38,2,9,Failed
+371,Mission Nightfall,Berlin,309,2,9,Failed
+374,Teen Agent,Buenos Aires,118,2,9,In Progress
+379,Ghost Protocol,New York,338,2,9,Pending
+381,Teen Agent,Sydney,912,2,9,Completed
+382,Groovy Infiltration,New York,105,2,9,In Progress
+386,Mission White Noise,Rome,447,2,9,Failed
+387,The Istanbul Affair,Toronto,222,2,9,Failed
+393,Covert Affairs in Russia,Istanbul,93,2,9,Failed
+5,The Istanbul Affair,New York,517,2,9,Pending
+6,Intersect Protection,Sydney,308,2,9,In Progress
+7,Operation Valkyrie,Berlin,458,2,9,In Progress
+438,Shibumi Extraction,Rio de Janeiro,479,2,9,Completed
+444,Operation Shadowbox,Buenos Aires,993,2,9,Failed
+445,Burn Notice Reversal,Moscow,375,2,9,Completed
+447,Shibumi Extraction,London,15,2,9,Failed
+491,Teen Agent,Los Angeles,650,2,9,Failed
+492,Rainbow Six Formation,Rio de Janeiro,22,2,9,Completed
+493,Phoenix Foundation Crisis,Beijing,301,2,9,Failed
+494,Operation Mojito,Rome,431,2,9,Failed
+498,Spy Undercover,Buenos Aires,677,2,9,Failed
+499,The Golden Circle,Los Angeles,40,2,9,Failed
+383,Chimera Virus Recovery,Rome,179,2,15,In Progress
+8,Project Omega,Cape Town,449,2,10,Completed
+495,Project Quantum,Dubai,670,2,5,Completed
+497,Intersect Protection,Paris,144,2,27,Failed
+380,Black Widow Ops,Rio de Janeiro,603,2,4,In Progress
+392,Intersect Protection,Los Angeles,283,2,5,In Progress
+500,Casino Royale Sting,Cape Town,793,2,25,Failed
+15,Project Shadow,Beijing,938,2,36,Failed
+391,Operation Silent Night,Cape Town,148,2,7,Failed
+390,Daughter Rescue,Buenos Aires,939,2,8,Failed
+384,Operation Skyfall,Berlin,566,2,39,Failed
+4,Rogue Nation,Toronto,993,2,1,Pending
+437,Project Shadow,Dubai,735,2,13,Failed
+442,Operation Red Dawn,Prague,862,2,3,Failed
+395,Mission Nightfall,Paris,838,2,10,Pending
+443,Brideshead Revisited,Los Angeles,280,2,12,Failed
+10,Mission Eclipse,Los Angeles,848,2,12,Pending
+9,The Higgins Case,Buenos Aires,743,2,36,Failed
+440,Arms Dealer Infiltration,Rome,214,2,21,In Progress
+14,Ghost Protocol,New York,537,2,40,Pending
+385,Intersect Protection,New York,97,2,38,Pending
+388,Forensic Lab Lockdown,Prague,84,2,6,Failed
+441,Operation Desert Scorpion,Rome,196,2,25,Failed
+496,Hellfire Club Infiltration,New York,523,2,35,Failed
+448,Gormogon Investigation,Sydney,984,2,44,Completed
+12,Outcome Elimination,Rome,925,2,39,Failed
+446,Mr. Monk Goes to the Asylum,Paris,152,2,20,In Progress
+13,Project Quantum,Tokyo,733,2,3,In Progress
+439,Operation Golden Eye,Chicago,59,2,38,Failed
+3,Phoenix Foundation Crisis,Los Angeles,935,2,14,Completed
+2,Operation Thunderball,Los Angeles,528,2,1,Failed
+11,Casino Royale Sting,Rio de Janeiro,334,2,32,In Progress
+389,Operation Skyfall,Beijing,503,2,10,Completed
+394,3XK Killer Chase,Toronto,380,2,21,In Progress
+396,Covert Affairs in Russia,Buenos Aires,995,2,9,Failed
+399,Operation Salt and Pepper,New York,712,2,9,In Progress
+402,Operation Thunderbolt,Madrid,876,2,9,Completed
+416,Mission Nightfall,Chicago,679,2,9,Failed
+420,Groovy Infiltration,Tokyo,387,2,9,In Progress
+421,Mr. Monk Goes to the Asylum,Madrid,480,2,9,Pending
+428,Operation Red Dawn,London,324,2,9,Failed
+429,Teen Agent,Vienna,520,2,9,Completed
+430,Parallel Universe Bridge,Paris,221,2,9,Failed
+434,Relevant Number Ops,Rome,831,2,9,Pending
+436,Operation Ironclad,Dubai,661,2,9,Completed
+432,Project Sentinel,Chicago,780,2,31,Completed
+414,Operation Shadowbox,Cape Town,78,2,30,In Progress
+413,Black Widow Ops,Beijing,500,2,13,In Progress
+411,3XK Killer Chase,Cape Town,133,2,15,In Progress
+401,Burn Notice Reversal,Rome,812,2,43,Completed
+425,Gormogon Investigation,Cape Town,792,2,22,Pending
+405,Ipcress File Recovery,Rome,21,2,8,In Progress
+423,SSR Infiltration,Rome,327,2,26,Pending
+406,Alien Conspiracy Investigation,Chicago,301,2,31,In Progress
+419,Music Box Mystery,Tokyo,541,2,2,In Progress
+427,Rule 51 Enforcement,Chicago,532,2,36,Completed
+415,Kingsman Recruitment,Madrid,667,2,29,Completed
+400,Covert Affairs in Russia,Buenos Aires,841,2,41,Failed
+426,Chimera Virus Recovery,Los Angeles,571,2,15,Failed
+408,Chimera Virus Recovery,Tokyo,48,2,41,In Progress
+398,Quantico Mole Hunt,Los Angeles,70,2,5,Failed
+433,Operation Golden Eye,Rome,459,2,6,Failed
+418,Arms Dealer Infiltration,Tokyo,378,2,35,In Progress
+422,Music Box Mystery,Vienna,847,2,1,In Progress
+407,Operation Red Dawn,Rio de Janeiro,927,2,25,Failed
+424,Project Phoenix,Dubai,801,2,36,Failed
+404,Spy Undercover,Istanbul,885,2,37,Failed
+412,U.N.C.L.E. Infiltration,Dubai,236,2,30,In Progress
+435,The Acropolis Assignment,London,717,2,29,Pending
+431,Operation Salt and Pepper,Los Angeles,49,2,20,In Progress
+397,The Acropolis Assignment,Madrid,278,2,41,Failed
+410,Forensic Lab Lockdown,Paris,696,2,15,Failed
+417,Ghost Protocol,Los Angeles,646,2,40,Completed
+403,SSR Infiltration,Madrid,165,2,3,In Progress
+409,Operation Ghost Hunt,Prague,440,2,16,In Progress
+458,Red October,Sydney,664,2,36,In Progress
+480,Operation Desert Scorpion,Prague,773,2,2,Failed
+470,Brideshead Revisited,Cape Town,772,2,44,In Progress
+478,Relevant Number Ops,Vienna,174,2,14,In Progress
+479,Operation Golden Eye,Rome,740,2,33,Pending
+454,Phoenix Foundation Crisis,Chicago,399,2,2,Failed
+462,Red October,London,613,2,41,In Progress
+459,Anarchy 99 Infiltration,Paris,657,2,8,Failed
+483,Port-to-Port Killer Hunt,Rio de Janeiro,250,2,41,In Progress
+477,Deep Cover,Buenos Aires,256,2,12,Failed
+450,Treadstone Takedown,New York,470,2,9,In Progress
+451,Management Dismantling,Madrid,917,2,9,Completed
+456,The Acropolis Assignment,Paris,924,2,9,In Progress
+460,Operation Red Dawn,Madrid,322,2,9,Failed
+461,Teen Agent,London,47,2,9,In Progress
+464,Outcome Elimination,Cape Town,283,2,9,In Progress
+465,Project Shadow,Cape Town,579,2,9,In Progress
+473,Forensic Lab Lockdown,Vienna,827,2,9,Failed
+475,Intersect Protection,Istanbul,71,2,9,Pending
+481,Project Christmas,Dubai,686,2,9,In Progress
+482,Spy Undercover,Tokyo,386,2,9,In Progress
+487,Operation Silent Night,Rome,439,2,9,Failed
+488,Operation Ghost Hunt,Vienna,466,2,9,Completed
+489,Operation Tinker Tailor,Paris,294,2,9,Completed
+490,Nikki Heat Protection,Rio de Janeiro,189,2,9,Completed
+468,Anarchy 99 Infiltration,Los Angeles,728,2,37,Pending
+472,Ghost Protocol,Dubai,101,2,30,Failed
+471,Operation Shadowbox,Sydney,553,2,27,In Progress
+474,Port-to-Port Killer Hunt,Rio de Janeiro,382,2,3,Failed
+463,Black Widow Ops,Dubai,188,2,42,In Progress
+484,Operation Ironclad,Cape Town,32,2,10,In Progress
+455,Project Omega,Madrid,970,2,35,Pending
+476,MTAC Security Breach,Rio de Janeiro,323,2,29,Failed
+485,Covert Affairs in Russia,Beijing,874,2,36,Failed
+452,Brideshead Revisited,London,543,2,34,Completed
+453,The Yin Yang Trilogy,Chicago,536,2,24,Pending
+449,Treadstone Takedown,Rio de Janeiro,133,2,30,In Progress
+486,Villanelle Pursuit,Istanbul,296,2,23,Completed
+469,Alien Conspiracy Investigation,London,413,2,29,Failed
+466,Section One Initiation,Istanbul,722,2,36,In Progress
+457,Shibumi Extraction,Dubai,590,2,11,In Progress
+467,Cybernauts Neutralization,Toronto,823,2,17,In Progress

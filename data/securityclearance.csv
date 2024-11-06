@@ -1,0 +1,7 @@
+sc_id,sc_level,description
+1,Confidential,Access to sensitive information that could cause minor damage if disclosed
+2,Secret,Access to information that could cause serious damage to national security if disclosed
+3,Top Secret,Access to information that could cause exceptionally grave damage to national security if disclosed
+4,Top Secret - SCI,Access to Top Secret information that is compartmentalized for specific projects or operations
+5,Restricted,Access to information that should not be freely available to the public
+6,Public Trust,Access to information that involves positions of significant public trust but is not classified
